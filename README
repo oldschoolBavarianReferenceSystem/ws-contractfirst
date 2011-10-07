@@ -1,0 +1,7 @@
+2011-07-12, Bjoern Hoefling
+Simple WebService implemented in JaxWS in code-first style.
+
+usage: 
+- mvn clean install
+- deploy target/ws-codefirst.war in TomCat
+- call http://localhost:8080/ws-codefirst/Hello
